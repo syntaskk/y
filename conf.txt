@@ -2,15 +2,15 @@
   "bestazure": {
     "title": "Best Azure Latch Script",
     "description": "Complete all tasks to get script",
-    "reward": "Key",
+    "reward": "Script",
     "image": "https://i.ibb.co/4nyScwRq/image.png",
     "tasks": [
       { 
         "id": 1, 
         "name": "Subscribe on YouTube", 
-        "link": "https://www.youtube.com/@syntaskk", 
+        "link": "https://www.youtube.com/@syntaskk?sub_confirmation=1", 
         "icon": "youtube", 
-        "waitTime": 5 
+        "waitTime": 7 
       },
       { 
         "id": 2, 
