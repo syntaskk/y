@@ -1,17 +1,13 @@
 {
-  "bestazuresc": {
-    "title": "Get Best Auto Goal Farm Script",
-    "description": "Do Quests",
-    "reward": "key",
-    "image": "https://i.hizliresim.com/3a6depu.png",
+  "robux100": {
+    "title": "🎁 100 Robux Kazan!",
+    "description": "Görevleri tamamla, robux al",
+    "reward": "100 Robux",
+    "image": "https://i.imgur.com/abc.png",
     "tasks": [
-      {
-        "id": 1,
-        "name": "YouTube'a Abone Ol",
-        "link": "https://www.youtube.com/@syntaskk?sub_confirmation=1",
-        "icon": "youtube"
-      },
-    "finalMessage": "you did it",
-    "finalLink": "niga"
-  }
-}
+      { "id": 1, "name": "YouTube Abone Ol", "link": "https://youtube.com/@kanal", "icon": "youtube" },
+      { "id": 2, "name": "Discord Katıl", "link": "https://discord.gg/xxx", "icon": "discord" }
+    ],
+    "finalMessage": "Robux'un hazır!",
+    "finalLink": "https://link.com/robux"
+  },
