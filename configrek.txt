@@ -1,19 +1,31 @@
 {
   "bestazure": {
     "title": "🚀 Best Azure Latch Script",
-    "description": "Complete all tasks",
-    "reward": "Key",
+    "description": "Complete all tasks to get your premium key",
+    "reward": "Premium Key",
     "image": "https://i.ibb.co/4nyScwRq/image.png",
     "tasks": [
-      { "id": 1, "name": "Subscribe on YouTube", "link": "https://www.youtube.com/@syntaskk", "icon": "youtube", "waitTime": 10 },
-      { "id": 2, "name": "Join Discord Server", "link": "https://discord.gg/vx7gMrtv", "icon": "discord", "waitTime": 15 }
+      { 
+        "id": 1, 
+        "name": "Subscribe on YouTube", 
+        "link": "https://www.youtube.com/@syntaskk", 
+        "icon": "youtube", 
+        "waitTime": 10 
+      },
+      { 
+        "id": 2, 
+        "name": "Join Discord Server", 
+        "link": "https://discord.gg/vx7gMrtv", 
+        "icon": "discord", 
+        "waitTime": 15 
+      }
     ],
-    "finalMessage": "Your Key Is Ready",
+    "finalMessage": "Your Premium Key Is Ready!",
     "finalText": false,
     "finalLink": false,
     "finalKey": true,
     "textContent": "",
     "linkUrl": "",
-    "keyFileUrl": "https://raw.githubusercontent.com/syntaskk/redzyy/refs/heads/main/yomic.lua"
+    "keyFileUrl": "https://raw.githubusercontent.com/syntaskk/redzyy/main/keys.txt"
   }
 }
