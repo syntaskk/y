@@ -1,33 +1,19 @@
 {
   "bestazure": {
-    "title": "Best Azure Latch Script",
-    "description": "Complete the tasks to claim your reward",
-    "reward": "100 Robux",
-    "image": "https://i.imgur.com/abc.png",
+    "title": "🚀 Best Azure Latch Script",
+    "description": "Complete all tasks",
+    "reward": "Key",
+    "image": "https://i.ibb.co/4nyScwRq/image.png",
     "tasks": [
-      { 
-        "id": 1, 
-        "name": "Subscribe on YouTube", 
-        "link": "https://youtube.com/@kanal", 
-        "icon": "youtube",
-        "waitTime": 10
-      },
-      { 
-        "id": 2, 
-        "name": "Join Discord Server", 
-        "link": "https://discord.gg/xxx", 
-        "icon": "discord",
-        "waitTime": 15
-      },
-      { 
-        "id": 3, 
-        "name": "Follow on Twitter", 
-        "link": "https://twitter.com/x", 
-        "icon": "twitter",
-        "waitTime": 8
-      }
+      { "id": 1, "name": "Subscribe on YouTube", "link": "https://youtube.com/@channel", "icon": "youtube", "waitTime": 10 },
+      { "id": 2, "name": "Join Discord Server", "link": "https://discord.gg/vx7gMrtv", "icon": "discord", "waitTime": 15 }
     ],
-    "finalMessage": "Your Robux is ready!",
-    "finalLink": "https://link.com/robux"
+    "finalMessage": "Your Key Is Ready",
+    "finalText": false,
+    "finalLink": false,
+    "finalKey": true,
+    "textContent": "",
+    "linkUrl": "",
+    "keyFileUrl": "https://raw.githubusercontent.com/syntaskk/redzyy/refs/heads/main/yomic.lua"
   }
 }
