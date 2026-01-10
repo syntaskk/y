@@ -8,12 +8,19 @@
       { 
         "id": 1, 
         "name": "Subscribe on YouTube", 
-        "link": "https://www.youtube.com/@syntaskk?sub_confirmation=1", 
+        "link": "https://www.youtube.com/@Ravzor?sub_confirmation=1", 
         "icon": "youtube", 
-        "waitTime": 7 
+        "waitTime": 5
       },
       { 
         "id": 2, 
+        "name": "Like And Comment Video", 
+        "link": "https://youtu.be/BcXjnWbkrAQ", 
+        "icon": "youtube", 
+        "waitTime": 15
+      },
+      { 
+        "id": 3, 
         "name": "Join Discord Server", 
         "link": "https://discord.gg/vx7gMrtv", 
         "icon": "discord", 
