@@ -1,8 +1,8 @@
 {
   "bestazure": {
-    "title": "🚀 Best Azure Latch Script",
-    "description": "Complete all tasks to get your premium key",
-    "reward": "Premium Key",
+    "title": "Best Azure Latch Script",
+    "description": "Complete all tasks to get script",
+    "reward": "Key",
     "image": "https://i.ibb.co/4nyScwRq/image.png",
     "tasks": [
       { 
@@ -10,21 +10,21 @@
         "name": "Subscribe on YouTube", 
         "link": "https://www.youtube.com/@syntaskk", 
         "icon": "youtube", 
-        "waitTime": 10 
+        "waitTime": 5 
       },
       { 
         "id": 2, 
         "name": "Join Discord Server", 
         "link": "https://discord.gg/vx7gMrtv", 
         "icon": "discord", 
-        "waitTime": 15 
+        "waitTime": 10
       }
     ],
-    "finalMessage": "Your Premium Key Is Ready!",
-    "finalText": false,
+    "finalMessage": "Your script is ready",
+    "finalText": true,
     "finalLink": false,
-    "finalKey": true,
-    "textContent": "",
+    "finalKey": false,
+    "textContent": "loadstring(game:HttpGet"https://pastefy.app/wBYM8bxq/raw")()",
     "linkUrl": "",
     "keyFileUrl": "https://raw.githubusercontent.com/syntaskk/redzyy/main/keys.txt"
   }
