@@ -8,14 +8,14 @@
       { 
         "id": 1, 
         "name": "Subscribe on YouTube", 
-        "link": "https://www.youtube.com/@Ravzor?sub_confirmation=1", 
+        "link": "https://www.youtube.com/@syntscripts?sub_confirmation=1", 
         "icon": "youtube", 
         "waitTime": 5
       },
       { 
         "id": 2, 
         "name": "Like And Comment Video", 
-        "link": "https://youtu.be/BcXjnWbkrAQ", 
+        "link": "https://youtu.be/EzY1L0vdHrM", 
         "icon": "youtube", 
         "waitTime": 15
       },
