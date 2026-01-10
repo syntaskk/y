@@ -5,7 +5,7 @@
     "reward": "Key",
     "image": "https://i.ibb.co/4nyScwRq/image.png",
     "tasks": [
-      { "id": 1, "name": "Subscribe on YouTube", "link": "https://youtube.com/@channel", "icon": "youtube", "waitTime": 10 },
+      { "id": 1, "name": "Subscribe on YouTube", "link": "https://www.youtube.com/@syntaskk", "icon": "youtube", "waitTime": 10 },
       { "id": 2, "name": "Join Discord Server", "link": "https://discord.gg/vx7gMrtv", "icon": "discord", "waitTime": 15 }
     ],
     "finalMessage": "Your Key Is Ready",
