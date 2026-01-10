@@ -1,13 +1,14 @@
 {
   "robux100": {
-    "title": "🎁 100 Robux Kazan!",
-    "description": "Görevleri tamamla, robux al",
+    "title": "🎁 Get 100 Robux Free!",
+    "description": "Complete the tasks to claim your reward",
     "reward": "100 Robux",
     "image": "https://i.imgur.com/abc.png",
     "tasks": [
-      { "id": 1, "name": "YouTube Abone Ol", "link": "https://youtube.com/@kanal", "icon": "youtube" },
-      { "id": 2, "name": "Discord Katıl", "link": "https://discord.gg/xxx", "icon": "discord" }
+      { "id": 1, "name": "Subscribe on YouTube", "link": "https://youtube.com/@kanal", "icon": "youtube" },
+      { "id": 2, "name": "Join Discord Server", "link": "https://discord.gg/xxx", "icon": "discord" }
     ],
-    "finalMessage": "Robux'un hazır!",
+    "finalMessage": "Your Robux is ready!",
     "finalLink": "https://link.com/robux"
-  },
+  }
+}
