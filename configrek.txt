@@ -1,1 +1,17 @@
-
+{
+  "bestazuresc": {
+    "title": "Get Best Auto Goal Farm Script",
+    "description": "Do Quests",
+    "reward": "key",
+    "image": "https://i.hizliresim.com/3a6depu.png",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "YouTube'a Abone Ol",
+        "link": "https://www.youtube.com/@syntaskk?sub_confirmation=1",
+        "icon": "youtube"
+      },
+    "finalMessage": "you did it",
+    "finalLink": "niga"
+  }
+}
