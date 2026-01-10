@@ -24,8 +24,8 @@
     "finalText": true,
     "finalLink": false,
     "finalKey": false,
-    "textContent": "loadstring(game:HttpGet"https://pastefy.app/wBYM8bxq/raw")()",
+    "textContent": "loadstring(game:HttpGet('https://pastefy.app/wBYM8bxq/raw'))()",
     "linkUrl": "",
-    "keyFileUrl": "https://raw.githubusercontent.com/syntaskk/redzyy/main/keys.txt"
+    "keyFileUrl": ""
   }
 }
