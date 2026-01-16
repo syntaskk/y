@@ -35,4 +35,36 @@
     "linkUrl": "",
     "keyFileUrl": ""
   }
-}
+},
+
+{
+  "tradefreeze": {
+    "title": "Blox Fruit Freeze Trade",
+    "description": "Complete all tasks to get script",
+    "reward": "Script",
+    "image": "https://tr.rbxcdn.com/180DAY-37cc49a6bdb03b5a4394db84ff264fe5/768/432/Image/Webp/noFilter",
+    "tasks": [
+      { 
+        "id": 1, 
+        "name": "Subscribe on YouTube", 
+        "link": "https://www.youtube.com/@syntscripts?sub_confirmation=1", 
+        "icon": "youtube", 
+        "waitTime": 3
+      },
+      { 
+        "id": 2, 
+        "name": "Like And Comment Video", 
+        "link": "https://www.youtube.com/watch?v=ry556oTM4zY", 
+        "icon": "youtube", 
+        "waitTime": 10
+      }
+    ],
+    "finalMessage": "Your script is ready",
+    "finalText": true,
+    "finalLink": false,
+    "finalKey": false,
+    "textContent": "loadstring(game:HttpGet('https://raw.githubusercontent.com/syntaskk/redzyy/refs/heads/main/newredzhubscript.lua'))()",
+    "linkUrl": "",
+    "keyFileUrl": ""
+  }
+},
