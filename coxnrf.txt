@@ -22,7 +22,7 @@
       {
         "id": 3,
         "name": "Join Discord Server",
-        "link": "https://discord.gg/vx7gMrtv",
+        "link": "https://discord.gg/YrApMd3H",
         "icon": "discord",
         "waitTime": 10
       }
