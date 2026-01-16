@@ -36,7 +36,6 @@
     "keyFileUrl": ""
   }
 },
-
 {
   "tradefreeze": {
     "title": "Blox Fruit Freeze Trade",
@@ -67,4 +66,4 @@
     "linkUrl": "",
     "keyFileUrl": ""
   }
-},
+}
